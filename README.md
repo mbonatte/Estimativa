@@ -17,6 +17,23 @@ Examples of strategies players can use include paying attention to the cards the
 
 In summary, Estimativa is a fun and exciting game that requires players to use strategy, estimation and quick thinking to win. Players must carefully manage their cards and make accurate estimates to come out on top. The game is filled with twists and turns and can be enjoyed by players of all ages and skill levels.
 
+## Rules
+
+- Each card has a weight depending on the suit and number, with the Ace being the highest card.
+- The order of suits, from highest to lowest, is: Gold, Sword, Cups, and Clubs.
+- All players must play the same suit as the first card played, unless they do not have that suit, in which case they can play whichever suit they prefer.
+- The number of cards dealt to players increases with each round, starting with one card and increasing until reaching a maximum and then decreasing back to one card.
+- If a player correctly estimates the number of rounds they will win, they double their points. If they overestimate, they lose the difference in points.
+- If a player estimates zero rounds and wins zero rounds, they gain one point.
+- In the final round, players cannot see their own card, only their opponents' cards, adding an element of surprise to the game.
+
+## Strategies
+
+- Pay attention to the cards in your hand and how they rank in relation to the other suits and cards.
+- Consider the number of cards dealt to players in each round and how that affects the likelihood of winning.
+- Take into account the other players' estimates and try to outmaneuver them by estimating differently.
+- In the final round, try to use your knowledge of your opponents' cards to your advantage.
+
 # Example
 
 Here is an example of how the game can unfold. Let's suppose we are playing with 4 players: John, Mary, Charles, and Daniel.
