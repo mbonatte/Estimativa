@@ -1,2 +1,6 @@
 # Estimativa
 MomMania
+
+The game "Estimate" is a strategy-based card game where players must estimate how many rounds they will win based on the weight of the cards they hold. Each card has a weight based on the suit and number, with the Ace being the most valuable card, and the suit order goes from gold to sword, cups, and clubs. An important rule is that all players must play the same suit as the first card played, unless they do not have that suit, in that case, they can play the one that suits them best. This adds an additional element of strategy to the game as players must think not only about the weight of the cards they hold but also the suit of the cards and if they have the correct suit to play. This means that players must consider not only the weight of the card but also the suit and if they have a card of that suit available. This makes the game more challenging and interesting.
+
+The strategy in this game is to plan ahead, and keep track of the cards that have been played, especially the suit of the cards, so that players can make informed decisions about which cards to play. One should also pay attention to the weight of the cards that other players play, as it will give a clue about the strength of their hands. Additionally, it is important to have a good sense of timing and to play cards that will maximize the chances of winning the round.
