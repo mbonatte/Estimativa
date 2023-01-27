@@ -1,9 +1,21 @@
 # Estimativa
 MomMania
 
-The game "Estimate" is a strategy-based card game where players must estimate how many rounds they will win based on the weight of the cards they hold. Each card has a weight based on the suit and number, with the Ace being the most valuable card, and the suit order goes from gold to sword, cups, and clubs. An important rule is that all players must play the same suit as the first card played, unless they do not have that suit, in that case, they can play the one that suits them best. This adds an additional element of strategy to the game as players must think not only about the weight of the cards they hold but also the suit of the cards and if they have the correct suit to play. This means that players must consider not only the weight of the card but also the suit and if they have a card of that suit available. This makes the game more challenging and interesting.
+Estimativa is a card game that requires players to estimate the number of rounds they will win, based on the cards they are dealt. The game is played with a standard deck of cards, and each card has a weight based on its suit and number, with Aces being the highest-ranking card. The order of the suits, from highest to lowest, is: Gold, Sword, Cups and Clubs.
 
-The strategy in this game is to plan ahead, and keep track of the cards that have been played, especially the suit of the cards, so that players can make informed decisions about which cards to play. One should also pay attention to the weight of the cards that other players play, as it will give a clue about the strength of their hands. Additionally, it is important to have a good sense of timing and to play cards that will maximize the chances of winning the round.
+The objective of the game is to estimate the number of rounds you will win. Each round, the number of cards dealt to each player increases, starting with one card per player in the first round and increasing until it reaches the maximum number of cards. For example, if there are five players, the number of cards dealt per round will increase from one to ten, and then decrease back to one again.
+
+An important rule to keep in mind is that all players must play the same suit as the first card played, unless they do not have that suit, in which case they can play any card they choose.
+
+If a player correctly estimates the number of rounds they will win, they double the number of points they earn for winning those rounds. If they overestimate or underestimate the number of rounds they will win, they lose the difference between their estimate and the actual number of rounds they won. If a player estimates that they will win zero rounds and then wins zero rounds, they earn one point.
+
+This adds an additional layer of strategy to the game, as players must not only think about their chances of winning individual rounds, but also their overall performance and how many rounds they think they will win.
+
+In the last round, when each player receives one card, they are not allowed to look at their own card, they can only see the cards of their opponents, which can make this round more exciting and challenging. This adds an element of surprise and can make the last round more unpredictable, which can lead to more intense gameplay and more opportunities for players to make last-minute adjustments to their estimates and strategies.
+
+Examples of strategies players can use include paying attention to the cards they have been dealt and the cards their opponents have played, as well as keeping track of the number of rounds remaining and adjusting their estimates accordingly. Another strategy would be to keep track of the cards that have been played in order to get an idea of the remaining cards in the deck, which can help inform estimates and card-playing decisions.
+
+In summary, Estimativa is a fun and exciting game that requires players to use strategy, estimation and quick thinking to win. Players must carefully manage their cards and make accurate estimates to come out on top. The game is filled with twists and turns and can be enjoyed by players of all ages and skill levels.
 
 # Example
 
